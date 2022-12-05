@@ -1,0 +1,10 @@
+.maindiv{
+    text-align: center;
+    width: 20%;
+    border: 2px solid black;
+    margin: 100px auto;
+}
+
+.maindiv p{
+    color: gray;
+}
